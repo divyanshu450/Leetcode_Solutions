@@ -21,6 +21,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0031-next-permutation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
