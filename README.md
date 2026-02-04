@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0048-rotate-image) |
 ## Math
 |  |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0048-rotate-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
