@@ -13,3 +13,19 @@
 | 6    | [2116](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)    | [Check if a Parentheses String Can Be Valid](./2116_M) |
 | 7    | [3417](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/)    | [Zigzag Grid Traversal With Skip](./3417_E) |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0048-rotate-image) |
+<!---LeetCode Topics End-->
