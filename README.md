@@ -50,12 +50,27 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
