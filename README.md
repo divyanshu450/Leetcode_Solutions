@@ -22,6 +22,7 @@
 | [0031-next-permutation](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0540-single-element-in-a-sorted-array](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
