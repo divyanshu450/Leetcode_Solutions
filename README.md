@@ -84,4 +84,8 @@
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
