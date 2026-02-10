@@ -15,18 +15,18 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        
+        /*
+        Magic of BFS: last node processed is last visible node from right.. Simple. just traverse and add ther last processed node.
+        */
         List<Integer> list = new ArrayList<>();
         if(root == null) return list;
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
-        //list.add(root.val);
         
         while(!q.isEmpty()){
-            //q: 2, 3,1
-            int size = q.size();//1, 3
+            int size = q.size();
             int rightmost = 0;
-            for(int i = 0; i < size; i++){//T
+            for(int i = 0; i < size; i++){
                 TreeNode node = q.poll();
                 rightmost = node.val;
                 if(node.left != null) q.add(node.left);
@@ -34,6 +34,6 @@ class Solution {
             }
             list.add(rightmost);
         }
-        return list;//1, 3
+        return list;
     }
 }
