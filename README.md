@@ -23,6 +23,7 @@
 | [0048-rotate-image](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
@@ -76,6 +77,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
