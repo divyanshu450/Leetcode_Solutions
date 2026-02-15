@@ -13,7 +13,7 @@ class Solution {
 
         //step 3: return first unique freq
         for(int n : nums){
-            if(hm.get(map.get(n)) == 1){//get this number's freq, check how many number's have that freq, == 1 meaning it is unique;
+            if(hm.get(map.get(n)) == 1){//get this number's freq, check how many number's have that freq, == 1 meaning it is unique (only one number has this freq not that freq is 1);
                 return n;
             }
         }
