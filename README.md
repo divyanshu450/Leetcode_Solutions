@@ -25,6 +25,7 @@
 | [0118-pascals-triangle](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0300-longest-increasing-subsequence](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
@@ -48,6 +49,7 @@
 | [0053-maximum-subarray](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Database
 |  |
