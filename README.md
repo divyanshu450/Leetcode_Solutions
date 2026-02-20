@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
@@ -115,5 +116,10 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
