@@ -15,6 +15,11 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
+        /*
+        WHAT THE ACTUAL QUESTION IS:
+        For every node,
+        | height(left subtree) - height(right subtree) | <= 1
+        */
         return height(root) != -1;
     }
 
