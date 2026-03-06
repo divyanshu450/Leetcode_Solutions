@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0048-rotate-image) |
@@ -94,6 +95,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshu450/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
